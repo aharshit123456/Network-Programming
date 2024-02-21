@@ -1,5 +1,5 @@
 #include <iostream>
-#pragma comment(lib, "winsock32.lib")
+#pragma comment(lib, "wsock32.lib")
 #include <winsock.h>
 
 using namespace std;
